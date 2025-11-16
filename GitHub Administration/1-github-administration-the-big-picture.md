@@ -66,7 +66,6 @@ This tutorial introduces the fundamentals of GitHub administration, covering the
 - **Proper administration is critical** - early shortcuts in governance lead to inefficiency, security risks, and technical debt
 - **Key administration areas** include enterprise structure, SSO configuration, repository policies, user provisioning, and team management
 - **The GitHub administrator role** is essential for organizations of all sizes to maintain healthy governance and security
-- **Structured learning paths exist** that align with GitHub's Administration certification, covering all critical domains
 
 ### 🚀 Next Steps / Additional Resources
 

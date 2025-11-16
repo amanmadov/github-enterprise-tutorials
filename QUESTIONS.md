@@ -6,4 +6,6 @@
 - What is `SCIM` and `EMUs`?
 - Are we using `GitHub Enterpise Cloud` or `GitHub Enterprise Server`?
 
+- CODEOWNERS file under `.github`
+- Rulesets
 
